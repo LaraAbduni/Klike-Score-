@@ -1,0 +1,137 @@
+{
+  "cenario": "criativo antes da veiculação",
+  "corte": "2024-10-24",
+  "n_treino": 399,
+  "n_teste": 101,
+  "cv_cinco_blocos_temporais": {
+    "mediana": {
+      "mae": {
+        "media": 12.043,
+        "desvio": 0.895
+      },
+      "rmse": {
+        "media": 14.926,
+        "desvio": 0.995
+      },
+      "r2": {
+        "media": -0.013,
+        "desvio": 0.016
+      }
+    },
+    "ridge": {
+      "mae": {
+        "media": 7.204,
+        "desvio": 0.988
+      },
+      "rmse": {
+        "media": 9.053,
+        "desvio": 1.039
+      },
+      "r2": {
+        "media": 0.625,
+        "desvio": 0.066
+      }
+    },
+    "floresta": {
+      "mae": {
+        "media": 8.195,
+        "desvio": 1.578
+      },
+      "rmse": {
+        "media": 10.21,
+        "desvio": 1.55
+      },
+      "r2": {
+        "media": 0.526,
+        "desvio": 0.09
+      }
+    }
+  },
+  "modelo_escolhido": "ridge",
+  "teste_final": {
+    "mae": 7.169,
+    "rmse": 9.052,
+    "r2": 0.737
+  },
+  "erro_teste_por_plataforma": {
+    "TikTok": {
+      "n": 45,
+      "mae": 6.417
+    },
+    "Meta": {
+      "n": 43,
+      "mae": 7.296
+    },
+    "LinkedIn": {
+      "n": 13,
+      "mae": 9.353
+    }
+  },
+  "importancia_permutacao_teste_delta_mae": [
+    {
+      "atributo": "has_hook",
+      "aumento_mae": 5.605,
+      "dp": 0.697
+    },
+    {
+      "atributo": "has_face",
+      "aumento_mae": 3.139,
+      "dp": 0.53
+    },
+    {
+      "atributo": "text_density",
+      "aumento_mae": 2.324,
+      "dp": 0.387
+    },
+    {
+      "atributo": "has_subtitle",
+      "aumento_mae": 1.309,
+      "dp": 0.351
+    },
+    {
+      "atributo": "has_cta",
+      "aumento_mae": 1.016,
+      "dp": 0.311
+    },
+    {
+      "atributo": "is_retargeting",
+      "aumento_mae": 0.417,
+      "dp": 0.137
+    },
+    {
+      "atributo": "platform",
+      "aumento_mae": 0.257,
+      "dp": 0.117
+    },
+    {
+      "atributo": "category",
+      "aumento_mae": 0.177,
+      "dp": 0.212
+    },
+    {
+      "atributo": "music_voice_ratio",
+      "aumento_mae": 0.122,
+      "dp": 0.051
+    },
+    {
+      "atributo": "target_audience_age",
+      "aumento_mae": 0.08,
+      "dp": 0.047
+    },
+    {
+      "atributo": "objective",
+      "aumento_mae": 0.079,
+      "dp": 0.07
+    },
+    {
+      "atributo": "log_duracao",
+      "aumento_mae": 0.026,
+      "dp": 0.04
+    },
+    {
+      "atributo": "format",
+      "aumento_mae": 0.016,
+      "dp": 0.082
+    }
+  ]
+}
