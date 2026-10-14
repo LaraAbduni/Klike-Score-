@@ -1,0 +1,1428 @@
+{
+  "periodo": [
+    "2024-01-01",
+    "2024-10-22"
+  ],
+  "n": 399,
+  "plataformas": {
+    "Meta": 198,
+    "TikTok": 131,
+    "LinkedIn": 70
+  },
+  "objetivos": {
+    "conversions": 136,
+    "traffic": 117,
+    "engagement": 61,
+    "awareness": 51,
+    "app_install": 34
+  },
+  "categorias": {
+    "E-commerce": 135,
+    "SaaS": 73,
+    "Lead Gen": 70,
+    "App Install": 64,
+    "Branding": 57
+  },
+  "medidas": {
+    "video_duration_s": {
+      "n": 369,
+      "media": 20.07588075880759,
+      "mediana": 17.0,
+      "p25": 11.0,
+      "p75": 26.0,
+      "p95": 46.0,
+      "min": 5.0,
+      "max": 115.0
+    },
+    "impressions": {
+      "n": 399,
+      "media": 145952.51378446116,
+      "mediana": 22897.0,
+      "p25": 9625.5,
+      "p75": 55090.0,
+      "p95": 194082.4999999997,
+      "min": 1000.0,
+      "max": 14052761.0
+    },
+    "clicks": {
+      "n": 399,
+      "media": 3630.0225563909776,
+      "mediana": 1376.0,
+      "p25": 460.5,
+      "p75": 3505.5,
+      "p95": 15863.399999999996,
+      "min": 4.0,
+      "max": 63969.0
+    },
+    "ctr": {
+      "n": 399,
+      "media": 0.07226641604010026,
+      "mediana": 0.0639,
+      "p25": 0.035,
+      "p75": 0.10905000000000001,
+      "p95": 0.15,
+      "min": 0.0022,
+      "max": 0.15
+    },
+    "cpc": {
+      "n": 375,
+      "media": 1.1727466666666666,
+      "mediana": 0.72,
+      "p25": 0.53,
+      "p75": 1.04,
+      "p95": 3.030000000000001,
+      "min": 0.05,
+      "max": 26.05
+    },
+    "spend": {
+      "n": 399,
+      "media": 4329.781353383458,
+      "mediana": 1027.9,
+      "p25": 312.435,
+      "p75": 2910.1099999999997,
+      "p95": 19903.265999999978,
+      "min": 2.96,
+      "max": 121226.1
+    },
+    "conversions": {
+      "n": 399,
+      "media": 134.15538847117796,
+      "mediana": 33.0,
+      "p25": 10.0,
+      "p75": 111.5,
+      "p95": 618.3999999999992,
+      "min": 0.0,
+      "max": 2474.0
+    },
+    "revenue": {
+      "n": 382,
+      "media": 6303.700445026178,
+      "mediana": 1154.28,
+      "p25": 213.79,
+      "p75": 4191.1125,
+      "p95": 32316.229499999994,
+      "min": 0.0,
+      "max": 234866.62
+    },
+    "roas": {
+      "n": 399,
+      "media": 2.4497994987468674,
+      "mediana": 1.37,
+      "p25": 0.37,
+      "p75": 3.2199999999999998,
+      "p95": 7.559999999999996,
+      "min": 0.0,
+      "max": 39.92
+    },
+    "avg_watch_time_s": {
+      "n": 378,
+      "media": 10.914550264550265,
+      "mediana": 7.7,
+      "p25": 4.7,
+      "p75": 14.075,
+      "p95": 27.0,
+      "min": 0.4,
+      "max": 108.0
+    },
+    "engagement_rate": {
+      "n": 376,
+      "media": 0.02767367021276596,
+      "mediana": 0.0207,
+      "p25": 0.0111,
+      "p75": 0.0388,
+      "p95": 0.0746,
+      "min": 0.001,
+      "max": 0.1
+    },
+    "klike_score": {
+      "n": 399,
+      "media": 60.257393483709265,
+      "mediana": 61.0,
+      "p25": 49.95,
+      "p75": 71.35,
+      "p95": 83.44,
+      "min": 13.4,
+      "max": 99.1
+    },
+    "conversoes_por_mil": {
+      "n": 396,
+      "media": 2.644878252816756,
+      "mediana": 1.6750418760469012,
+      "p25": 0.5708872602212185,
+      "p75": 3.666860767962906,
+      "p95": 8.42609659578505,
+      "min": 0.0,
+      "max": 17.557861133280127
+    }
+  },
+  "qualidade": {
+    "faltantes": {
+      "video_duration_s": {
+        "n": 30,
+        "pct": 7.5
+      },
+      "has_subtitle": {
+        "n": 36,
+        "pct": 9.0
+      },
+      "music_voice_ratio": {
+        "n": 32,
+        "pct": 8.0
+      },
+      "cpc": {
+        "n": 24,
+        "pct": 6.0
+      },
+      "revenue": {
+        "n": 17,
+        "pct": 4.3
+      },
+      "avg_watch_time_s": {
+        "n": 21,
+        "pct": 5.3
+      },
+      "engagement_rate": {
+        "n": 23,
+        "pct": 5.8
+      }
+    },
+    "ids_repetidos": 0,
+    "linhas_repetidas": 0,
+    "outliers_iqr": {
+      "video_duration_s": {
+        "n": 15,
+        "limites": [
+          -11.5,
+          48.5
+        ],
+        "exemplos": [
+          "KLK-0489",
+          "KLK-0035",
+          "KLK-0410",
+          "KLK-0265",
+          "KLK-0043"
+        ]
+      },
+      "music_voice_ratio": {
+        "n": 0,
+        "limites": [
+          -0.25,
+          1.03
+        ],
+        "exemplos": []
+      },
+      "impressions": {
+        "n": 38,
+        "limites": [
+          -58571.25,
+          123286.75
+        ],
+        "exemplos": [
+          "KLK-0001",
+          "KLK-0247",
+          "KLK-0485",
+          "KLK-0101",
+          "KLK-0261"
+        ]
+      },
+      "clicks": {
+        "n": 42,
+        "limites": [
+          -4107.0,
+          8073.0
+        ],
+        "exemplos": [
+          "KLK-0247",
+          "KLK-0049",
+          "KLK-0485",
+          "KLK-0261",
+          "KLK-0089"
+        ]
+      },
+      "ctr": {
+        "n": 0,
+        "limites": [
+          -0.07608,
+          0.22013
+        ],
+        "exemplos": []
+      },
+      "cpc": {
+        "n": 54,
+        "limites": [
+          -0.235,
+          1.805
+        ],
+        "exemplos": [
+          "KLK-0249",
+          "KLK-0089",
+          "KLK-0227",
+          "KLK-0416",
+          "KLK-0035"
+        ]
+      },
+      "spend": {
+        "n": 49,
+        "limites": [
+          -3584.0775,
+          6806.6225
+        ],
+        "exemplos": [
+          "KLK-0247",
+          "KLK-0485",
+          "KLK-0249",
+          "KLK-0261",
+          "KLK-0089"
+        ]
+      },
+      "conversions": {
+        "n": 53,
+        "limites": [
+          -142.25,
+          263.75
+        ],
+        "exemplos": [
+          "KLK-0247",
+          "KLK-0020",
+          "KLK-0049",
+          "KLK-0485",
+          "KLK-0304"
+        ]
+      },
+      "revenue": {
+        "n": 54,
+        "limites": [
+          -5752.19375,
+          10157.09625
+        ],
+        "exemplos": [
+          "KLK-0247",
+          "KLK-0020",
+          "KLK-0249",
+          "KLK-0096",
+          "KLK-0261"
+        ]
+      },
+      "roas": {
+        "n": 22,
+        "limites": [
+          -3.905,
+          7.495
+        ],
+        "exemplos": [
+          "KLK-0020",
+          "KLK-0290",
+          "KLK-0162",
+          "KLK-0165",
+          "KLK-0259"
+        ]
+      },
+      "avg_watch_time_s": {
+        "n": 16,
+        "limites": [
+          -9.3625,
+          28.1375
+        ],
+        "exemplos": [
+          "KLK-0067",
+          "KLK-0333",
+          "KLK-0489",
+          "KLK-0035",
+          "KLK-0123"
+        ]
+      },
+      "engagement_rate": {
+        "n": 16,
+        "limites": [
+          -0.03045,
+          0.08035
+        ],
+        "exemplos": [
+          "KLK-0485",
+          "KLK-0067",
+          "KLK-0350",
+          "KLK-0075",
+          "KLK-0152"
+        ]
+      },
+      "klike_score": {
+        "n": 2,
+        "limites": [
+          17.85,
+          103.45
+        ],
+        "exemplos": [
+          "KLK-0298",
+          "KLK-0265"
+        ]
+      }
+    },
+    "inconsistencias": {
+      "ctr_vs_clicks_impressions": {
+        "n": 3,
+        "ids": [
+          "KLK-0413",
+          "KLK-0258",
+          "KLK-0232"
+        ]
+      },
+      "cpc_vs_spend_clicks": {
+        "n": 5,
+        "ids": [
+          "KLK-0416",
+          "KLK-0259",
+          "KLK-0100",
+          "KLK-0109",
+          "KLK-0240"
+        ]
+      },
+      "roas_vs_revenue_spend": {
+        "n": 2,
+        "ids": [
+          "KLK-0259",
+          "KLK-0109"
+        ]
+      },
+      "watch_time_maior_que_duracao": {
+        "n": 0,
+        "ids": []
+      },
+      "conversions_maior_que_clicks": {
+        "n": 0,
+        "ids": []
+      },
+      "valores_negativos": {
+        "n": 0,
+        "ids": []
+      }
+    },
+    "valores_no_teto": {
+      "ctr_15pct": 46,
+      "engajamento_10pct": 8
+    }
+  },
+  "correlacoes": {
+    "atributos_do_criativo": {
+      "video_duration_s": {
+        "ctr": {
+          "n": 369,
+          "pearson": -0.052,
+          "spearman": -0.009
+        },
+        "engagement_rate": {
+          "n": 349,
+          "pearson": -0.129,
+          "spearman": -0.119
+        },
+        "roas": {
+          "n": 369,
+          "pearson": -0.077,
+          "spearman": -0.134
+        },
+        "klike_score": {
+          "n": 369,
+          "pearson": -0.016,
+          "spearman": -0.026
+        },
+        "conversoes_por_mil": {
+          "n": 366,
+          "pearson": -0.069,
+          "spearman": -0.017
+        }
+      },
+      "music_voice_ratio": {
+        "ctr": {
+          "n": 367,
+          "pearson": 0.064,
+          "spearman": 0.057
+        },
+        "engagement_rate": {
+          "n": 349,
+          "pearson": 0.019,
+          "spearman": 0.044
+        },
+        "roas": {
+          "n": 367,
+          "pearson": 0.016,
+          "spearman": 0.002
+        },
+        "klike_score": {
+          "n": 367,
+          "pearson": -0.08,
+          "spearman": -0.067
+        },
+        "conversoes_por_mil": {
+          "n": 364,
+          "pearson": 0.053,
+          "spearman": 0.058
+        }
+      }
+    },
+    "metrica_pos_exibicao": {
+      "avg_watch_time_s": {
+        "ctr": {
+          "n": 378,
+          "pearson": 0.047,
+          "spearman": 0.082
+        },
+        "engagement_rate": {
+          "n": 358,
+          "pearson": -0.064,
+          "spearman": -0.05
+        },
+        "roas": {
+          "n": 378,
+          "pearson": -0.083,
+          "spearman": -0.117
+        },
+        "klike_score": {
+          "n": 378,
+          "pearson": 0.161,
+          "spearman": 0.159
+        },
+        "conversoes_por_mil": {
+          "n": 375,
+          "pearson": -0.036,
+          "spearman": 0.0
+        }
+      }
+    }
+  },
+  "comparacoes": {
+    "has_hook": {
+      "Meta": {
+        "False": {
+          "n": 94,
+          "medianas": {
+            "ctr": 0.053,
+            "engagement_rate": 0.0145,
+            "roas": 1.66,
+            "klike_score": 52.85,
+            "conversoes_por_mil": 1.3956
+          },
+          "n_validos": {
+            "ctr": 94,
+            "engagement_rate": 86,
+            "roas": 94,
+            "klike_score": 94,
+            "conversoes_por_mil": 94
+          }
+        },
+        "True": {
+          "n": 104,
+          "medianas": {
+            "ctr": 0.0758,
+            "engagement_rate": 0.0207,
+            "roas": 1.26,
+            "klike_score": 69.55,
+            "conversoes_por_mil": 1.9763
+          },
+          "n_validos": {
+            "ctr": 104,
+            "engagement_rate": 99,
+            "roas": 104,
+            "klike_score": 104,
+            "conversoes_por_mil": 104
+          }
+        }
+      },
+      "TikTok": {
+        "False": {
+          "n": 70,
+          "medianas": {
+            "ctr": 0.047,
+            "engagement_rate": 0.0281,
+            "roas": 2.195,
+            "klike_score": 53.95,
+            "conversoes_por_mil": 1.1293
+          },
+          "n_validos": {
+            "ctr": 70,
+            "engagement_rate": 64,
+            "roas": 70,
+            "klike_score": 70,
+            "conversoes_por_mil": 69
+          }
+        },
+        "True": {
+          "n": 61,
+          "medianas": {
+            "ctr": 0.078,
+            "engagement_rate": 0.0392,
+            "roas": 3.09,
+            "klike_score": 70.4,
+            "conversoes_por_mil": 1.772
+          },
+          "n_validos": {
+            "ctr": 61,
+            "engagement_rate": 61,
+            "roas": 61,
+            "klike_score": 61,
+            "conversoes_por_mil": 60
+          }
+        }
+      },
+      "LinkedIn": {
+        "False": {
+          "n": 29,
+          "medianas": {
+            "ctr": 0.0374,
+            "engagement_rate": 0.0175,
+            "roas": 0.43,
+            "klike_score": 50.7,
+            "conversoes_por_mil": 1.2016
+          },
+          "n_validos": {
+            "ctr": 29,
+            "engagement_rate": 29,
+            "roas": 29,
+            "klike_score": 29,
+            "conversoes_por_mil": 28
+          }
+        },
+        "True": {
+          "n": 41,
+          "medianas": {
+            "ctr": 0.0874,
+            "engagement_rate": 0.018,
+            "roas": 0.53,
+            "klike_score": 64.1,
+            "conversoes_por_mil": 2.3868
+          },
+          "n_validos": {
+            "ctr": 41,
+            "engagement_rate": 37,
+            "roas": 41,
+            "klike_score": 41,
+            "conversoes_por_mil": 41
+          }
+        }
+      }
+    },
+    "has_face": {
+      "Meta": {
+        "False": {
+          "n": 95,
+          "medianas": {
+            "ctr": 0.0639,
+            "engagement_rate": 0.0145,
+            "roas": 1.49,
+            "klike_score": 54.9,
+            "conversoes_por_mil": 1.8413
+          },
+          "n_validos": {
+            "ctr": 95,
+            "engagement_rate": 92,
+            "roas": 95,
+            "klike_score": 95,
+            "conversoes_por_mil": 95
+          }
+        },
+        "True": {
+          "n": 103,
+          "medianas": {
+            "ctr": 0.0662,
+            "engagement_rate": 0.0218,
+            "roas": 1.59,
+            "klike_score": 67.8,
+            "conversoes_por_mil": 1.5552
+          },
+          "n_validos": {
+            "ctr": 103,
+            "engagement_rate": 93,
+            "roas": 103,
+            "klike_score": 103,
+            "conversoes_por_mil": 103
+          }
+        }
+      },
+      "TikTok": {
+        "False": {
+          "n": 54,
+          "medianas": {
+            "ctr": 0.0454,
+            "engagement_rate": 0.0289,
+            "roas": 2.8,
+            "klike_score": 59.3,
+            "conversoes_por_mil": 1.105
+          },
+          "n_validos": {
+            "ctr": 54,
+            "engagement_rate": 50,
+            "roas": 54,
+            "klike_score": 54,
+            "conversoes_por_mil": 53
+          }
+        },
+        "True": {
+          "n": 77,
+          "medianas": {
+            "ctr": 0.0804,
+            "engagement_rate": 0.0392,
+            "roas": 2.36,
+            "klike_score": 66.8,
+            "conversoes_por_mil": 1.9354
+          },
+          "n_validos": {
+            "ctr": 77,
+            "engagement_rate": 75,
+            "roas": 77,
+            "klike_score": 77,
+            "conversoes_por_mil": 76
+          }
+        }
+      },
+      "LinkedIn": {
+        "False": {
+          "n": 30,
+          "medianas": {
+            "ctr": 0.0527,
+            "engagement_rate": 0.0175,
+            "roas": 0.5,
+            "klike_score": 51.25,
+            "conversoes_por_mil": 1.0962
+          },
+          "n_validos": {
+            "ctr": 30,
+            "engagement_rate": 29,
+            "roas": 30,
+            "klike_score": 30,
+            "conversoes_por_mil": 30
+          }
+        },
+        "True": {
+          "n": 40,
+          "medianas": {
+            "ctr": 0.0749,
+            "engagement_rate": 0.018,
+            "roas": 0.435,
+            "klike_score": 60.8,
+            "conversoes_por_mil": 2.3868
+          },
+          "n_validos": {
+            "ctr": 40,
+            "engagement_rate": 37,
+            "roas": 40,
+            "klike_score": 40,
+            "conversoes_por_mil": 39
+          }
+        }
+      }
+    },
+    "has_cta": {
+      "Meta": {
+        "False": {
+          "n": 57,
+          "medianas": {
+            "ctr": 0.0662,
+            "engagement_rate": 0.0157,
+            "roas": 1.25,
+            "klike_score": 55.8,
+            "conversoes_por_mil": 1.4507
+          },
+          "n_validos": {
+            "ctr": 57,
+            "engagement_rate": 53,
+            "roas": 57,
+            "klike_score": 57,
+            "conversoes_por_mil": 57
+          }
+        },
+        "True": {
+          "n": 141,
+          "medianas": {
+            "ctr": 0.0628,
+            "engagement_rate": 0.0183,
+            "roas": 1.6,
+            "klike_score": 62.7,
+            "conversoes_por_mil": 1.8948
+          },
+          "n_validos": {
+            "ctr": 141,
+            "engagement_rate": 132,
+            "roas": 141,
+            "klike_score": 141,
+            "conversoes_por_mil": 141
+          }
+        }
+      },
+      "TikTok": {
+        "False": {
+          "n": 52,
+          "medianas": {
+            "ctr": 0.0529,
+            "engagement_rate": 0.0333,
+            "roas": 2.08,
+            "klike_score": 57.9,
+            "conversoes_por_mil": 1.0492
+          },
+          "n_validos": {
+            "ctr": 52,
+            "engagement_rate": 50,
+            "roas": 52,
+            "klike_score": 52,
+            "conversoes_por_mil": 52
+          }
+        },
+        "True": {
+          "n": 79,
+          "medianas": {
+            "ctr": 0.0615,
+            "engagement_rate": 0.0365,
+            "roas": 2.86,
+            "klike_score": 66.1,
+            "conversoes_por_mil": 1.8689
+          },
+          "n_validos": {
+            "ctr": 79,
+            "engagement_rate": 75,
+            "roas": 79,
+            "klike_score": 79,
+            "conversoes_por_mil": 77
+          }
+        }
+      },
+      "LinkedIn": {
+        "False": {
+          "n": 18,
+          "medianas": {
+            "ctr": 0.0646,
+            "engagement_rate": 0.0164,
+            "roas": 0.685,
+            "klike_score": 50.75,
+            "conversoes_por_mil": 1.9234
+          },
+          "n_validos": {
+            "ctr": 18,
+            "engagement_rate": 17,
+            "roas": 18,
+            "klike_score": 18,
+            "conversoes_por_mil": 18
+          }
+        },
+        "True": {
+          "n": 52,
+          "medianas": {
+            "ctr": 0.0682,
+            "engagement_rate": 0.0184,
+            "roas": 0.355,
+            "klike_score": 58.9,
+            "conversoes_por_mil": 1.8422
+          },
+          "n_validos": {
+            "ctr": 52,
+            "engagement_rate": 49,
+            "roas": 52,
+            "klike_score": 52,
+            "conversoes_por_mil": 51
+          }
+        }
+      }
+    },
+    "has_subtitle": {
+      "Meta": {
+        "False": {
+          "n": 80,
+          "medianas": {
+            "ctr": 0.0628,
+            "engagement_rate": 0.0181,
+            "roas": 1.78,
+            "klike_score": 57.85,
+            "conversoes_por_mil": 1.482
+          },
+          "n_validos": {
+            "ctr": 80,
+            "engagement_rate": 74,
+            "roas": 80,
+            "klike_score": 80,
+            "conversoes_por_mil": 80
+          }
+        },
+        "True": {
+          "n": 102,
+          "medianas": {
+            "ctr": 0.0692,
+            "engagement_rate": 0.0182,
+            "roas": 1.41,
+            "klike_score": 63.0,
+            "conversoes_por_mil": 1.96
+          },
+          "n_validos": {
+            "ctr": 102,
+            "engagement_rate": 97,
+            "roas": 102,
+            "klike_score": 102,
+            "conversoes_por_mil": 102
+          }
+        },
+        "faltante": {
+          "n": 16,
+          "medianas": {
+            "ctr": 0.0535,
+            "engagement_rate": 0.018,
+            "roas": 0.555,
+            "klike_score": 65.0,
+            "conversoes_por_mil": 0.8922
+          },
+          "n_validos": {
+            "ctr": 16,
+            "engagement_rate": 14,
+            "roas": 16,
+            "klike_score": 16,
+            "conversoes_por_mil": 16
+          }
+        }
+      },
+      "TikTok": {
+        "False": {
+          "n": 54,
+          "medianas": {
+            "ctr": 0.0536,
+            "engagement_rate": 0.0382,
+            "roas": 2.525,
+            "klike_score": 61.0,
+            "conversoes_por_mil": 1.3585
+          },
+          "n_validos": {
+            "ctr": 54,
+            "engagement_rate": 53,
+            "roas": 54,
+            "klike_score": 54,
+            "conversoes_por_mil": 54
+          }
+        },
+        "True": {
+          "n": 65,
+          "medianas": {
+            "ctr": 0.0705,
+            "engagement_rate": 0.034,
+            "roas": 2.86,
+            "klike_score": 66.1,
+            "conversoes_por_mil": 1.675
+          },
+          "n_validos": {
+            "ctr": 65,
+            "engagement_rate": 61,
+            "roas": 65,
+            "klike_score": 65,
+            "conversoes_por_mil": 63
+          }
+        },
+        "faltante": {
+          "n": 12,
+          "medianas": {
+            "ctr": 0.041,
+            "engagement_rate": 0.0318,
+            "roas": 1.83,
+            "klike_score": 54.9,
+            "conversoes_por_mil": 1.433
+          },
+          "n_validos": {
+            "ctr": 12,
+            "engagement_rate": 11,
+            "roas": 12,
+            "klike_score": 12,
+            "conversoes_por_mil": 12
+          }
+        }
+      },
+      "LinkedIn": {
+        "False": {
+          "n": 24,
+          "medianas": {
+            "ctr": 0.0685,
+            "engagement_rate": 0.0125,
+            "roas": 0.49,
+            "klike_score": 54.55,
+            "conversoes_por_mil": 1.8474
+          },
+          "n_validos": {
+            "ctr": 24,
+            "engagement_rate": 23,
+            "roas": 24,
+            "klike_score": 24,
+            "conversoes_por_mil": 24
+          }
+        },
+        "True": {
+          "n": 38,
+          "medianas": {
+            "ctr": 0.0685,
+            "engagement_rate": 0.023,
+            "roas": 0.45,
+            "klike_score": 62.25,
+            "conversoes_por_mil": 2.5827
+          },
+          "n_validos": {
+            "ctr": 38,
+            "engagement_rate": 36,
+            "roas": 38,
+            "klike_score": 38,
+            "conversoes_por_mil": 37
+          }
+        },
+        "faltante": {
+          "n": 8,
+          "medianas": {
+            "ctr": 0.0534,
+            "engagement_rate": 0.0201,
+            "roas": 0.315,
+            "klike_score": 51.55,
+            "conversoes_por_mil": 0.8752
+          },
+          "n_validos": {
+            "ctr": 8,
+            "engagement_rate": 7,
+            "roas": 8,
+            "klike_score": 8,
+            "conversoes_por_mil": 8
+          }
+        }
+      }
+    },
+    "format": {
+      "Meta": {
+        "horizontal": {
+          "n": 61,
+          "medianas": {
+            "ctr": 0.0639,
+            "engagement_rate": 0.0143,
+            "roas": 1.49,
+            "klike_score": 58.2,
+            "conversoes_por_mil": 1.8706
+          },
+          "n_validos": {
+            "ctr": 61,
+            "engagement_rate": 58,
+            "roas": 61,
+            "klike_score": 61,
+            "conversoes_por_mil": 61
+          }
+        },
+        "quadrado": {
+          "n": 48,
+          "medianas": {
+            "ctr": 0.0653,
+            "engagement_rate": 0.019,
+            "roas": 1.805,
+            "klike_score": 61.05,
+            "conversoes_por_mil": 1.9404
+          },
+          "n_validos": {
+            "ctr": 48,
+            "engagement_rate": 42,
+            "roas": 48,
+            "klike_score": 48,
+            "conversoes_por_mil": 48
+          }
+        },
+        "vertical": {
+          "n": 89,
+          "medianas": {
+            "ctr": 0.0636,
+            "engagement_rate": 0.0207,
+            "roas": 1.4,
+            "klike_score": 62.4,
+            "conversoes_por_mil": 1.2902
+          },
+          "n_validos": {
+            "ctr": 89,
+            "engagement_rate": 85,
+            "roas": 89,
+            "klike_score": 89,
+            "conversoes_por_mil": 89
+          }
+        }
+      },
+      "TikTok": {
+        "quadrado": {
+          "n": 16,
+          "medianas": {
+            "ctr": 0.0794,
+            "engagement_rate": 0.0178,
+            "roas": 4.2,
+            "klike_score": 55.45,
+            "conversoes_por_mil": 2.3092
+          },
+          "n_validos": {
+            "ctr": 16,
+            "engagement_rate": 16,
+            "roas": 16,
+            "klike_score": 16,
+            "conversoes_por_mil": 16
+          }
+        },
+        "vertical": {
+          "n": 115,
+          "medianas": {
+            "ctr": 0.0577,
+            "engagement_rate": 0.0375,
+            "roas": 2.36,
+            "klike_score": 63.1,
+            "conversoes_por_mil": 1.3016
+          },
+          "n_validos": {
+            "ctr": 115,
+            "engagement_rate": 109,
+            "roas": 115,
+            "klike_score": 115,
+            "conversoes_por_mil": 113
+          }
+        }
+      },
+      "LinkedIn": {
+        "horizontal": {
+          "n": 39,
+          "medianas": {
+            "ctr": 0.0655,
+            "engagement_rate": 0.0183,
+            "roas": 0.44,
+            "klike_score": 58.3,
+            "conversoes_por_mil": 2.0031
+          },
+          "n_validos": {
+            "ctr": 39,
+            "engagement_rate": 36,
+            "roas": 39,
+            "klike_score": 39,
+            "conversoes_por_mil": 38
+          }
+        },
+        "quadrado": {
+          "n": 21,
+          "medianas": {
+            "ctr": 0.0701,
+            "engagement_rate": 0.02,
+            "roas": 0.43,
+            "klike_score": 56.8,
+            "conversoes_por_mil": 1.7013
+          },
+          "n_validos": {
+            "ctr": 21,
+            "engagement_rate": 20,
+            "roas": 21,
+            "klike_score": 21,
+            "conversoes_por_mil": 21
+          }
+        },
+        "vertical": {
+          "n": 10,
+          "medianas": {
+            "ctr": 0.0607,
+            "engagement_rate": 0.0115,
+            "roas": 0.715,
+            "klike_score": 48.35,
+            "conversoes_por_mil": 2.557
+          },
+          "n_validos": {
+            "ctr": 10,
+            "engagement_rate": 10,
+            "roas": 10,
+            "klike_score": 10,
+            "conversoes_por_mil": 10
+          }
+        }
+      }
+    },
+    "text_density": {
+      "Meta": {
+        "high": {
+          "n": 28,
+          "medianas": {
+            "ctr": 0.0371,
+            "engagement_rate": 0.0165,
+            "roas": 1.455,
+            "klike_score": 48.7,
+            "conversoes_por_mil": 1.3104
+          },
+          "n_validos": {
+            "ctr": 28,
+            "engagement_rate": 28,
+            "roas": 28,
+            "klike_score": 28,
+            "conversoes_por_mil": 28
+          }
+        },
+        "low": {
+          "n": 80,
+          "medianas": {
+            "ctr": 0.0691,
+            "engagement_rate": 0.0153,
+            "roas": 1.54,
+            "klike_score": 57.8,
+            "conversoes_por_mil": 1.7099
+          },
+          "n_validos": {
+            "ctr": 80,
+            "engagement_rate": 74,
+            "roas": 80,
+            "klike_score": 80,
+            "conversoes_por_mil": 80
+          }
+        },
+        "medium": {
+          "n": 90,
+          "medianas": {
+            "ctr": 0.0653,
+            "engagement_rate": 0.0216,
+            "roas": 1.49,
+            "klike_score": 67.45,
+            "conversoes_por_mil": 1.9212
+          },
+          "n_validos": {
+            "ctr": 90,
+            "engagement_rate": 83,
+            "roas": 90,
+            "klike_score": 90,
+            "conversoes_por_mil": 90
+          }
+        }
+      },
+      "TikTok": {
+        "high": {
+          "n": 31,
+          "medianas": {
+            "ctr": 0.043,
+            "engagement_rate": 0.0356,
+            "roas": 2.88,
+            "klike_score": 54.1,
+            "conversoes_por_mil": 1.1057
+          },
+          "n_validos": {
+            "ctr": 31,
+            "engagement_rate": 29,
+            "roas": 31,
+            "klike_score": 31,
+            "conversoes_por_mil": 29
+          }
+        },
+        "low": {
+          "n": 29,
+          "medianas": {
+            "ctr": 0.0615,
+            "engagement_rate": 0.0475,
+            "roas": 3.09,
+            "klike_score": 61.0,
+            "conversoes_por_mil": 1.9378
+          },
+          "n_validos": {
+            "ctr": 29,
+            "engagement_rate": 28,
+            "roas": 29,
+            "klike_score": 29,
+            "conversoes_por_mil": 29
+          }
+        },
+        "medium": {
+          "n": 71,
+          "medianas": {
+            "ctr": 0.0589,
+            "engagement_rate": 0.0318,
+            "roas": 2.21,
+            "klike_score": 65.5,
+            "conversoes_por_mil": 1.675
+          },
+          "n_validos": {
+            "ctr": 71,
+            "engagement_rate": 68,
+            "roas": 71,
+            "klike_score": 71,
+            "conversoes_por_mil": 71
+          }
+        }
+      },
+      "LinkedIn": {
+        "high": {
+          "n": 16,
+          "medianas": {
+            "ctr": 0.0635,
+            "engagement_rate": 0.0142,
+            "roas": 0.605,
+            "klike_score": 50.4,
+            "conversoes_por_mil": 2.1396
+          },
+          "n_validos": {
+            "ctr": 16,
+            "engagement_rate": 16,
+            "roas": 16,
+            "klike_score": 16,
+            "conversoes_por_mil": 16
+          }
+        },
+        "low": {
+          "n": 29,
+          "medianas": {
+            "ctr": 0.067,
+            "engagement_rate": 0.0172,
+            "roas": 0.44,
+            "klike_score": 56.1,
+            "conversoes_por_mil": 1.8213
+          },
+          "n_validos": {
+            "ctr": 29,
+            "engagement_rate": 27,
+            "roas": 29,
+            "klike_score": 29,
+            "conversoes_por_mil": 28
+          }
+        },
+        "medium": {
+          "n": 25,
+          "medianas": {
+            "ctr": 0.0687,
+            "engagement_rate": 0.0228,
+            "roas": 0.35,
+            "klike_score": 64.6,
+            "conversoes_por_mil": 2.0518
+          },
+          "n_validos": {
+            "ctr": 25,
+            "engagement_rate": 23,
+            "roas": 25,
+            "klike_score": 25,
+            "conversoes_por_mil": 25
+          }
+        }
+      }
+    }
+  },
+  "por_plataforma": {
+    "LinkedIn": {
+      "n": 70,
+      "medianas": {
+        "ctr": 0.0682,
+        "engagement_rate": 0.0178,
+        "roas": 0.445,
+        "klike_score": 57.75,
+        "conversoes_por_mil": 1.8527
+      }
+    },
+    "Meta": {
+      "n": 198,
+      "medianas": {
+        "ctr": 0.0643,
+        "engagement_rate": 0.0182,
+        "roas": 1.515,
+        "klike_score": 60.55,
+        "conversoes_por_mil": 1.6025
+      }
+    },
+    "TikTok": {
+      "n": 131,
+      "medianas": {
+        "ctr": 0.0577,
+        "engagement_rate": 0.0361,
+        "roas": 2.66,
+        "klike_score": 62.7,
+        "conversoes_por_mil": 1.5188
+      }
+    }
+  },
+  "por_objetivo_plataforma": [
+    {
+      "plataforma": "LinkedIn",
+      "objetivo": "app_install",
+      "n": 6,
+      "ctr_mediano": 0.0895,
+      "roas_mediano": 0.225
+    },
+    {
+      "plataforma": "LinkedIn",
+      "objetivo": "awareness",
+      "n": 9,
+      "ctr_mediano": 0.0919,
+      "roas_mediano": 0.0
+    },
+    {
+      "plataforma": "LinkedIn",
+      "objetivo": "conversions",
+      "n": 23,
+      "ctr_mediano": 0.0655,
+      "roas_mediano": 0.87
+    },
+    {
+      "plataforma": "LinkedIn",
+      "objetivo": "engagement",
+      "n": 8,
+      "ctr_mediano": 0.0992,
+      "roas_mediano": 0.74
+    },
+    {
+      "plataforma": "LinkedIn",
+      "objetivo": "traffic",
+      "n": 24,
+      "ctr_mediano": 0.0539,
+      "roas_mediano": 0.355
+    },
+    {
+      "plataforma": "Meta",
+      "objetivo": "app_install",
+      "n": 17,
+      "ctr_mediano": 0.0758,
+      "roas_mediano": 0.63
+    },
+    {
+      "plataforma": "Meta",
+      "objetivo": "awareness",
+      "n": 21,
+      "ctr_mediano": 0.0526,
+      "roas_mediano": 1.95
+    },
+    {
+      "plataforma": "Meta",
+      "objetivo": "conversions",
+      "n": 69,
+      "ctr_mediano": 0.066,
+      "roas_mediano": 2.42
+    },
+    {
+      "plataforma": "Meta",
+      "objetivo": "engagement",
+      "n": 34,
+      "ctr_mediano": 0.0628,
+      "roas_mediano": 0.0
+    },
+    {
+      "plataforma": "Meta",
+      "objetivo": "traffic",
+      "n": 57,
+      "ctr_mediano": 0.0667,
+      "roas_mediano": 1.4
+    },
+    {
+      "plataforma": "TikTok",
+      "objetivo": "app_install",
+      "n": 11,
+      "ctr_mediano": 0.0705,
+      "roas_mediano": 0.97
+    },
+    {
+      "plataforma": "TikTok",
+      "objetivo": "awareness",
+      "n": 21,
+      "ctr_mediano": 0.0472,
+      "roas_mediano": 0.0
+    },
+    {
+      "plataforma": "TikTok",
+      "objetivo": "conversions",
+      "n": 44,
+      "ctr_mediano": 0.0568,
+      "roas_mediano": 3.305
+    },
+    {
+      "plataforma": "TikTok",
+      "objetivo": "engagement",
+      "n": 19,
+      "ctr_mediano": 0.0799,
+      "roas_mediano": 1.15
+    },
+    {
+      "plataforma": "TikTok",
+      "objetivo": "traffic",
+      "n": 36,
+      "ctr_mediano": 0.0551,
+      "roas_mediano": 3.57
+    }
+  ]
+}
